@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 **Welcome to my GitHub profile!** I'm a Data Analyst specialising in database administration and visualisations to support data-driven development.
 
-### - 🛠 **Skillset**
+- 🛠 **Skillset**
   - Excel
   - SQL
   - Tableau
   - Python
 
-#### - 🪴 **Sustainability** is more than a concept; it's a pathway to creating lasting, impactful solutions.
+- 🪴 **Sustainability** is more than a concept; it's a pathway to creating lasting, impactful solutions.
 
-### 💬 Let's Connect!
-Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/yuxi-c-3a5b77252/). 
+### 💬 Contact
+[LinkedIn](https://www.linkedin.com/in/yuxi-c-3a5b77252/). 
 
 ---
 
