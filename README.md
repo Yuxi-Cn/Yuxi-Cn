@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 
-**Welcome to my GitHub profile!** I'm a Data Analyst specialising in database administration and business analytics.
+**Welcome to my GitHub profile!** I'm a Data Analyst specialising in database administration and visualisations to support data-driven development.
 
-### 🌱 About Me
-- 💼 **Data Analyst** with expertise in Excel, SQL, Tableau, and Python
-- 🛠 Skilled in **transforming complex data** into clear, actionable insights
-- 🌍 Enthusiast for making data-driven decisions and **enhacing organisational productivity**
-- 🤝 Team player with a focus on **continuous improvement** and efficiency
-- 🚀 Passionate about **automation** and staying ahead of AI-driven trends
-- 🪴 **Sustainability** is more than a concept; it's a pathway to creating lasting, impactful solutions.
+### - 🛠 **Skillset**
+  - Excel
+  - SQL
+  - Tableau
+  - Python
+
+#### - 🪴 **Sustainability** is more than a concept; it's a pathway to creating lasting, impactful solutions.
 
 ### 💬 Let's Connect!
 Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/yuxi-c-3a5b77252/). 
