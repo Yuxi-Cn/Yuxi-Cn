@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🌍 Enthusiast for making data-driven decisions and **enhacing organisational productivity**
 - 🤝 Team player with a focus on **continuous improvement** and efficiency
 - 🚀 Passionate about **automation** and staying ahead of AI-driven trends
+- 🪴 **Sustainability** is more than a concept; it's a pathway to creating lasting, impactful solutions.
 
 ### 💬 Let's Connect!
 Feel free to explore my repositories or connect with me on [LinkedIn](https://www.linkedin.com/in/yuxi-c-3a5b77252/). 
