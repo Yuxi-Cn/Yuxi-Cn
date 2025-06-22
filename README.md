@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - SQL
   - Tableau
   - Python
+  - Databricks
 
 - 🪴 **Sustainability** is more than a concept; it's a pathway to creating lasting, impactful solutions.
 
