@@ -1,36 +1,27 @@
-## 👋 Hi there! I'm Yuxi
+# 👋 Hi, I'm Yuxi
 
-<!--
-**Yuxi-Cn/Yuxi-Cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data & Analytics professional focused on transforming financial data into reliable, analysis-ready datasets and business insights.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Engineering: Databricks, PySpark, SQL
+- Data & Analytics: Power BI, Tableau, Excel, Power Query
+- Automation: Python, PowerShell, VBA
+- Data Platforms & Tools: Azure, Git, Azure DevOps, SAP data
+- AI & Productivity: GitHub Copilot, AI-assisted data workflows
 
+### 🚀 Currently
 
+I'm interested in data engineering, analytics automation, and applied AI, particularly how modern tools can improve data quality, processing efficiency, and reporting.
 
-**Welcome to my GitHub profile!** I'm a Data Analyst specialising in database administration and visualisations to support data-driven development.
+### 🌱 Interests
 
-- 🛠 **Skillset**
-  - Excel
-  - SQL
-  - Tableau
-  - Python
-  - Databricks
+Technology • Data • AI • Sustainability
 
-- 🪴 **Sustainability** is more than a concept; it's a pathway to creating lasting, impactful solutions.
+### 💬 Connect
 
-### 💬 Contact
-[LinkedIn](https://www.linkedin.com/in/yuxi-c-3a5b77252/). 
+LinkedIn
 
 ---
 
-Thanks for visiting! 
+Thanks for visiting! ⭐
